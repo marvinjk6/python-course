@@ -1,10 +1,10 @@
 # For Loop in Python
 
-For Loop:
+### For Loop:
 
 - A for loop in Python is used to iterate over a sequence of values.
 
-range function:
+### range function:
 
 - Produces a sequence of integers from start (inclusive) to stop (exclusive) by step.
   range(i, j) produces i, i+1, i+2, ..., j-1  
@@ -13,16 +13,16 @@ range function:
 - stop
 - step
 
-Indentation is crucial:
+### Indentation is crucial:
 
 - If you skip indentation, you'll encounter an IndentationError.
   Nested loop
 
-Nested loop:
+### Nested loop:
 
 - A for loop can be nested inside another for loop, and this is known as a nested loop. The inner loop executes completely for each iteration of the outer loop.
 
-Formatted String Literals (f-strings)
+### Formatted String Literals (f-strings)
 
 - print(f"The sum is {variable}")
 
